@@ -1,5 +1,5 @@
 # M5Stackカード型キーボードをUSB化
-![cardkb](https://github.com/user-attachments/assets/51eba5ad-61e5-4fe7-bb80-54e4ac85f8db)
+![cardkb](https://github.com/user-attachments/assets/f7e06f58-538f-4a41-ac54-64a00dbc36e8)
 
 # 機能
 * M5StampS3とカードサイズキーボードを組み合わせ、パソコンのUSBキーボードとして機能させる。
